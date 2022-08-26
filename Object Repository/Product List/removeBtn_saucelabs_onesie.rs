@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removeBtn_saucelabs_onesie</name>
+   <tag></tag>
+   <elementGuidId>616b0fc9-78aa-423d-9622-d32c70eed105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remove-sauce-labs-onesie</value>
+      <webElementGuid>3001ddf9-3464-4b60-a1b3-db68e53fd480</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
